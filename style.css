@@ -275,7 +275,8 @@ profile-photo .img{
 .education-content .row .timeline-item{
   position:relative;
   padding-left: 37px;
-  padding-bottom: 50px; 
+  padding-bottom: 50px;
+  COLOR: WHITE;
 }
 .education-content .row  .internship .timeline-item{
   position:relative;
